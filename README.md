@@ -1,13 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey%2C+There!!+I+am+Amit+Nagaich.)](https://git.io/typing-svg)
 - 👋 Hi, I’m @amit-na4061
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me -  amit.na4061@gmail.com 
+- ⚡ Fun fact: **Data science once helped NASA fix a spacecraft millions of miles away!**
 
-- 
+  In 2009, the Kepler Space Telescope malfunctioned while observing planets far from Earth. The telescope lost its
+  ability to focus due to a failure in its stabilizing system. However, data scientists came to the rescue! Using
+  clever algorithms and data analysis techniques, they were able to correct the images mathematically without needing
+  to physically fix the spacecraft. This allowed Kepler to continue its mission and discover thousands of planets beyond
+  our solar system!
+
+  It’s a great reminder of how powerful data science can be, even in space!
+
+  
 
 <!---
 amit-na4061/amit-na4061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
