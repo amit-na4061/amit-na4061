@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+There.!!+I+am+Amit+Nagaich+and+Welcome+to+my+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&width=435&lines=%F0%9F%91%8B+Hey%2C+There!!+I+am+Amit+Nagaich+and+Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @amit-na4061
 - 👀 I’m interested in ...
