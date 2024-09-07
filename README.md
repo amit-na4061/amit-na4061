@@ -1,6 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/amit-na4061/count.svg)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey%2C+There!!+I+am+Amit+Nagaich.)](https://git.io/typing-svg)
 - 👋 Hi, I’m @amit-na4061
 - 📫 How to reach me -  amit.na4061@gmail.com 
@@ -14,9 +11,15 @@
 
   It’s a great reminder of how powerful data science can be, even in space!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=dark&background=000000)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=dark)](https://github.com/yourGitHubUsername/github-readme-stats)
+## Visitor Count
+  ![Visitor Count](https://profile-counter.glitch.me/amit-na4061/count.svg)
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-na4061&theme=dark&background=000000)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-na4061&show_icons=true&theme=dark)
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark)](https://github.com/amit-na4061/github-readme-stats)
 
   
 
