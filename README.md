@@ -21,8 +21,16 @@
   <img src="https://streak-stats.demolab.com?user=amit-na4061&theme=dark&background=000000" height="170"/>
 </p>
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark)](https://github.com/amit-na4061/github-readme-stats)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-na4061&show_icons=true&theme=dark" height="165">
+  <img src="https://streak-stats.demolab.com?user=amit-na4061&theme=dark" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark" height="165">
+</p>
 
   
 
