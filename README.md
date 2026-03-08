@@ -13,7 +13,7 @@
 
 
 ## Visitor Count
-  ![Visitor Count](https://profile-counter.glitch.me/amit-na4061/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=amit-na4061&color=blue)
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-na4061&theme=dark&background=000000)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-na4061&show_icons=true&theme=dark)
