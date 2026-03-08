@@ -25,6 +25,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark&cache_seconds=86400)
 
+## 📈 Contribution Activity
+
+![Amit Nagaich GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amit-na4061&theme=react-dark&hide_border=true)
+
 <!---
 amit-na4061/amit-na4061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
