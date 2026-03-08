@@ -21,18 +21,9 @@
   <img src="https://streak-stats.demolab.com?user=amit-na4061&theme=dark&background=000000" height="170"/>
 </p>
 
-## 📊 GitHub Analytics
+## 📊 Language
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-na4061&show_icons=true&theme=dark" height="165">
-  <img src="https://streak-stats.demolab.com?user=amit-na4061&theme=dark" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark" height="165">
-</p>
-
-  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-na4061&layout=compact&theme=dark&cache_seconds=86400)
 
 <!---
 amit-na4061/amit-na4061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
